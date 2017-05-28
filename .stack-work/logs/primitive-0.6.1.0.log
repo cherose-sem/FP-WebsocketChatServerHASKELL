@@ -32,5 +32,5 @@ Control\Monad\Primitive.hs:101:19: Warning:
 [10 of 10] Compiling Data.Primitive.MutVar ( Data\Primitive\MutVar.hs, .stack-work\dist\2672c1f3\build\Data\Primitive\MutVar.o )
 In-place registering primitive-0.6.1.0...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\primitive-0.6.1.0-EphY2c7CCxSCBKjAN0YTR3
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\primitive-0.6.1.0-EphY2c7CCxSCBKjAN0YTR3
 Registering primitive-0.6.1.0...

@@ -89,5 +89,5 @@ Data\Acquire.hs:24:1: Warning:
     To import instances alone, use: import Control.Monad()
 In-place registering resourcet-1.1.7.4...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\resourcet-1.1.7.4-L55heI7Nh8BIaVlsvt7SIa
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\resourcet-1.1.7.4-L55heI7Nh8BIaVlsvt7SIa
 Registering resourcet-1.1.7.4...

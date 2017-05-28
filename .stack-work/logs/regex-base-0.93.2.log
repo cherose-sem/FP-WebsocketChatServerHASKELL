@@ -11,5 +11,5 @@ Text\Regex\Base.hs:55:13: Warning:
 [4 of 4] Compiling Text.Regex.Base.Impl ( Text\Regex\Base\Impl.hs, .stack-work\dist\2672c1f3\build\Text\Regex\Base\Impl.o )
 In-place registering regex-base-0.93.2...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-base-0.93.2-47KXx9dLqeO8MNJeizLKhP
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-base-0.93.2-47KXx9dLqeO8MNJeizLKhP
 Registering regex-base-0.93.2...

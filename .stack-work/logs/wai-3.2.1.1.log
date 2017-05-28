@@ -10,5 +10,5 @@ Network\Wai.hs:97:1: Warning:
     To import instances alone, use: import Data.Monoid()
 In-place registering wai-3.2.1.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-3.2.1.1-CuC6BgSlvdSADsWhxL3wmt
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-3.2.1.1-CuC6BgSlvdSADsWhxL3wmt
 Registering wai-3.2.1.1...

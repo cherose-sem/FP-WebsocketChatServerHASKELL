@@ -97,5 +97,5 @@ System\Console\ANSI\Windows\Emulator.hs:104:5: Warning:
 [6 of 6] Compiling System.Console.ANSI ( System\Console\ANSI.hs, .stack-work\dist\2672c1f3\build\System\Console\ANSI.o )
 In-place registering ansi-terminal-0.6.2.3...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\ansi-terminal-0.6.2.3-17j0yRazsq84la3DzBiNwu
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\ansi-terminal-0.6.2.3-17j0yRazsq84la3DzBiNwu
 Registering ansi-terminal-0.6.2.3...

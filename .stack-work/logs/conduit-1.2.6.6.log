@@ -113,5 +113,5 @@ Data\Conduit\Lift.hs:168:32: Warning:
     Deprecated: "Use Control.Monad.Trans.Except instead"
 In-place registering conduit-1.2.6.6...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\conduit-1.2.6.6-4vwXa52Mgk2IFQw5U9Vk6r
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\conduit-1.2.6.6-4vwXa52Mgk2IFQw5U9Vk6r
 Registering conduit-1.2.6.6...

@@ -88,5 +88,5 @@ Options\Applicative\Extra.hs:25:1: Warning:
 [15 of 15] Compiling Options.Applicative.Arrows ( Options\Applicative\Arrows.hs, .stack-work\dist\2672c1f3\build\Options\Applicative\Arrows.o )
 In-place registering optparse-applicative-0.12.1.0...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\optparse-applicative-0.12.1.0-1qb2webDJ54LMjsvCfMjZw
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\optparse-applicative-0.12.1.0-1qb2webDJ54LMjsvCfMjZw
 Registering optparse-applicative-0.12.1.0...

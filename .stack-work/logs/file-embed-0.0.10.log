@@ -9,5 +9,5 @@ Data\FileEmbed.hs:67:1: Warning:
     To import instances alone, use: import Control.Applicative()
 In-place registering file-embed-0.0.10...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\file-embed-0.0.10-FWXWh5tEqUiDASHT4VN9sY
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\file-embed-0.0.10-FWXWh5tEqUiDASHT4VN9sY
 Registering file-embed-0.0.10...

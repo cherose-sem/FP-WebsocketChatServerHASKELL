@@ -37,5 +37,5 @@ src\Text\Blaze.hs:92:1: Warning:
     The import of `Word' from module `Data.Word' is redundant
 In-place registering blaze-markup-0.7.1.0...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\blaze-markup-0.7.1.0-0tKrf28gRcM35aw8gGohhB
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\blaze-markup-0.7.1.0-0tKrf28gRcM35aw8gGohhB
 Registering blaze-markup-0.7.1.0...

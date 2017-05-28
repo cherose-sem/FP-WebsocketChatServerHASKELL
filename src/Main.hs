@@ -18,11 +18,11 @@ import qualified Safe
 
 main :: IO ()
 main = do
-  state <- Concurrent.newMVar []
-  Warp.run 3000 $ WS.websocketsOr
+  state <- Concurrent.newMVar [] --taking a piece of data, concurrent monad
+  Warp.run 3000 $ WS.websocketsOr --the application is the entire thing after the $ to
     WS.defaultConnectionOptions
     (wsApp state)
-    httpApp
+    httpApp                        --here
 
 httpApp :: Wai.Application
 httpApp _ respond = respond $ Wai.responseLBS Http.status400 [] "Not a websocket request"
@@ -34,10 +34,11 @@ type State    = [Client]
 nextId :: State -> ClientId
 nextId = Maybe.maybe 0 ((+) 1) . Safe.maximumMay . List.map fst
 
+--function takes a connection and takes the clientId
 connectClient :: WS.Connection -> Concurrent.MVar State -> IO ClientId
-connectClient conn stateRef = Concurrent.modifyMVar stateRef $ \state -> do
+connectClient conn stateRef = Concurrent.modifyMVar stateRef $ \state -> do --creating the IO monad - wrapped in IO because of side effects
   let clientId = nextId state
-  return ((clientId, conn) : state, clientId)
+  return ((clientId, conn) : state, clientId) --returning a newState - head tail operator
 
 withoutClient :: ClientId -> State -> State
 withoutClient clientId = List.filter ((/=) clientId . fst)

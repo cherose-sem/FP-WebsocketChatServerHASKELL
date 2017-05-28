@@ -18,5 +18,5 @@ Web\Cookie.hs:241:21: Warning:
     Deprecated: "use "parseTimeM True" instead"
 In-place registering cookie-0.4.2.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\cookie-0.4.2.1-8T4fX7jBKkGJv0Qpk3Tpfq
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\cookie-0.4.2.1-8T4fX7jBKkGJv0Qpk3Tpfq
 Registering cookie-0.4.2.1...

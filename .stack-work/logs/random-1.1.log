@@ -128,5 +128,5 @@ System\Random.hs:527:1: Warning: Tab character
 System\Random.hs:528:1: Warning: Tab character
 In-place registering random-1.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\random-1.1-7Qv4dDT5WBF9U3tMWkytIb
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\random-1.1-7Qv4dDT5WBF9U3tMWkytIb
 Registering random-1.1...

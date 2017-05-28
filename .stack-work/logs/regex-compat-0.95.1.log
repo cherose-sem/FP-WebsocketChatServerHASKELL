@@ -34,5 +34,5 @@ Text\Regex.hs:80:1: Warning: Tab character
 Text\Regex.hs:81:1: Warning: Tab character
 In-place registering regex-compat-0.95.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-compat-0.95.1-EyUO1k1s8YNJ81jSdgVW1z
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-compat-0.95.1-EyUO1k1s8YNJ81jSdgVW1z
 Registering regex-compat-0.95.1...

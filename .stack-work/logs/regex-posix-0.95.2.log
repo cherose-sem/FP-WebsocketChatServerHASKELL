@@ -13,5 +13,5 @@ Text\Regex\Posix.hs:72:13: Warning:
     Deprecated: "See GHC ticket #2496"
 In-place registering regex-posix-0.95.2...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-posix-0.95.2-ClFHQvfj6rtJ1Pxo4OAy89
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\regex-posix-0.95.2-ClFHQvfj6rtJ1Pxo4OAy89
 Registering regex-posix-0.95.2...

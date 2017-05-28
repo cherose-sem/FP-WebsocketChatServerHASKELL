@@ -14,5 +14,5 @@ src\Control\Monad\Base.hs:24:1: Warning:
     To import instances alone, use: import Control.Applicative()
 In-place registering transformers-base-0.4.4...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\transformers-base-0.4.4-74WedXVmfaHHDJItmBRTVp
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\transformers-base-0.4.4-74WedXVmfaHHDJItmBRTVp
 Registering transformers-base-0.4.4...

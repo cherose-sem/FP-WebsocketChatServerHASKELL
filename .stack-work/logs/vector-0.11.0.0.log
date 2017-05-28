@@ -60,5 +60,5 @@ Data\Vector.hs:190:1: Warning:
     To import instances alone, use: import Data.Monoid()
 In-place registering vector-0.11.0.0...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\vector-0.11.0.0-LmZ3LQW4ivu8MsQuVgukln
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\vector-0.11.0.0-LmZ3LQW4ivu8MsQuVgukln
 Registering vector-0.11.0.0...

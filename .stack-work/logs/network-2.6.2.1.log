@@ -1,6 +1,6 @@
-[1 of 2] Compiling Main             ( C:\Users\cherr\AppData\Local\Temp\stack976\network-2.6.2.1\Setup.hs, C:\Users\cherr\AppData\Local\Temp\stack976\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\Main.o )
-[2 of 2] Compiling StackSetupShim   ( C:\sr\setup-exe-src\setup-shim-Z6RU0evB.hs, C:\Users\cherr\AppData\Local\Temp\stack976\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\StackSetupShim.o )
-Linking C:\Users\cherr\AppData\Local\Temp\stack976\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\setup.exe ...
+[1 of 2] Compiling Main             ( C:\Users\cherr\AppData\Local\Temp\stack5880\network-2.6.2.1\Setup.hs, C:\Users\cherr\AppData\Local\Temp\stack5880\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\Main.o )
+[2 of 2] Compiling StackSetupShim   ( C:\Users\cherr\AppData\Roaming\stack\setup-exe-src\setup-shim-Z6RU0evB.hs, C:\Users\cherr\AppData\Local\Temp\stack5880\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\StackSetupShim.o )
+Linking C:\Users\cherr\AppData\Local\Temp\stack5880\network-2.6.2.1\.stack-work\dist\2672c1f3\setup\setup.exe ...
 Configuring network-2.6.2.1...
 configure: WARNING: unrecognized options: --with-compiler, --with-gcc
 checking build system type... x86_64-pc-mingw64
@@ -463,5 +463,5 @@ Network.hs:401:5: Warning:
             SockAddrCan _
 In-place registering network-2.6.2.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\network-2.6.2.1-JvRqUnCVngAETdubChvApm
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\network-2.6.2.1-JvRqUnCVngAETdubChvApm
 Registering network-2.6.2.1...

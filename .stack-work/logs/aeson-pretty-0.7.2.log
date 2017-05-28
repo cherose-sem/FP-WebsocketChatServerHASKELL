@@ -12,6 +12,7 @@ Preprocessing executable 'aeson-pretty' for aeson-pretty-0.7.2...
 [2 of 2] Compiling Main             ( cli-tool\Main.hs, .stack-work\dist\2672c1f3\build\aeson-pretty\aeson-pretty-tmp\Main.o )
 Linking .stack-work\dist\2672c1f3\build\aeson-pretty\aeson-pretty.exe ...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\aeson-pretty-0.7.2-CwQOcd1lW1IKEONUvrXDFI
-Installing executable(s) in C:\sr\snapshots\f21484d8\bin
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\aeson-pretty-0.7.2-CwQOcd1lW1IKEONUvrXDFI
+Installing executable(s) in
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\bin
 Registering aeson-pretty-0.7.2...

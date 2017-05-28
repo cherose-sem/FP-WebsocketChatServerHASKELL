@@ -20,6 +20,7 @@ server.lhs:16:3: Warning:
 server.lhs:47:3: Warning: Defined but not used: `numClients'
 Linking .stack-work\dist\2672c1f3\build\wai-websockets-example\wai-websockets-example.exe ...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-websockets-3.0.0.9-CisiS5yt3bx60BYlg6It9G
-Installing executable(s) in C:\sr\snapshots\f21484d8\bin
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-websockets-3.0.0.9-CisiS5yt3bx60BYlg6It9G
+Installing executable(s) in
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\bin
 Registering wai-websockets-3.0.0.9...

@@ -42,6 +42,7 @@ Preprocessing executable 'warp' for wai-app-static-3.1.5...
 [1 of 1] Compiling Main             ( app\warp-static.hs, .stack-work\dist\2672c1f3\build\warp\warp-tmp\Main.o )
 Linking .stack-work\dist\2672c1f3\build\warp\warp.exe ...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-app-static-3.1.5-Bq9y3rldsX8Gv5wW4KeUKk
-Installing executable(s) in C:\sr\snapshots\f21484d8\bin
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-app-static-3.1.5-Bq9y3rldsX8Gv5wW4KeUKk
+Installing executable(s) in
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\bin
 Registering wai-app-static-3.1.5...

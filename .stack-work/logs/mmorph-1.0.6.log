@@ -49,5 +49,5 @@ src\Control\Monad\Morph.hs:235:30: Warning:
 [2 of 2] Compiling Control.Monad.Trans.Compose ( src\Control\Monad\Trans\Compose.hs, .stack-work\dist\2672c1f3\build\Control\Monad\Trans\Compose.o )
 In-place registering mmorph-1.0.6...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\mmorph-1.0.6-42KUkOfzC6q3qCtAMiSHam
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\mmorph-1.0.6-42KUkOfzC6q3qCtAMiSHam
 Registering mmorph-1.0.6...

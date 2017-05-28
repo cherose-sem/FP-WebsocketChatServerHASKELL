@@ -18,5 +18,5 @@ Network\HTTP\Date\Converter.hs:61:19: Warning:
 [5 of 5] Compiling Network.HTTP.Date ( Network\HTTP\Date.hs, .stack-work\dist\2672c1f3\build\Network\HTTP\Date.o )
 In-place registering http-date-0.0.6.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\http-date-0.0.6.1-1oVBShPuvOKJmU2QQbDO8W
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\http-date-0.0.6.1-1oVBShPuvOKJmU2QQbDO8W
 Registering http-date-0.0.6.1...

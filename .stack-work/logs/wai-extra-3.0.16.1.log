@@ -48,5 +48,5 @@ Network\Wai\Middleware\RequestLogger.hs:36:1: Warning:
 [30 of 30] Compiling Network.Wai.Handler.SCGI ( Network\Wai\Handler\SCGI.hs, .stack-work\dist\2672c1f3\build\Network\Wai\Handler\SCGI.o )
 In-place registering wai-extra-3.0.16.1...
 Installing library in
-C:\sr\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-extra-3.0.16.1-JClIbtxFDMR0ygEhkmvzmo
+C:\Users\cherr\AppData\Roaming\stack\snapshots\f21484d8\lib\x86_64-windows-ghc-7.10.3\wai-extra-3.0.16.1-JClIbtxFDMR0ygEhkmvzmo
 Registering wai-extra-3.0.16.1...
