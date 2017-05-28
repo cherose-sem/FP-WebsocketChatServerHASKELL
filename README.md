@@ -5,6 +5,7 @@ To import packages (if necessary):
 ```
 > elm package install
 > stack install --dependencies-only
+> stack update (if missing some modules, should be done before stack install ...)
 ```
 
 The backend:
@@ -15,5 +16,7 @@ The backend:
 In another window, the frontend:
 
 ```
-> elm reactor
+> elm-reactor
 ```
+
+This has been made together with Daniel G. and Kristin :)
